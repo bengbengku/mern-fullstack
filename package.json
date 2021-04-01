@@ -1,0 +1,19 @@
+{
+  "name": "mern-fullstack",
+  "version": "1.0.0",
+  "description": "Social Network For Developers",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bengbengku/mern-fullstack.git"
+  },
+  "author": "Anggiat Benget Napitupulu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bengbengku/mern-fullstack/issues"
+  },
+  "homepage": "https://github.com/bengbengku/mern-fullstack#readme"
+}
